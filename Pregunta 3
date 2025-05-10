@@ -14,7 +14,7 @@ public class Main {
         }
 
         int R = sumaPares - sumaImpares;
-        System.out.println("R: " + R);
+        System.out.println(R);
     }
 }
 
